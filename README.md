@@ -14,7 +14,7 @@ macOS:
 source myenv\bin\activate
 
 
-run this command in order to install all needed packages on to your  venv
+run this command in order to install all needed packages on to your  venv: 
 pip install -r requirements.txt
 
 
